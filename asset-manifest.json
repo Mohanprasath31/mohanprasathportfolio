@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mohanprasathportfolio/static/css/main.5e23aad6.css",
+    "main.js": "/mohanprasathportfolio/static/js/main.5e4799ba.js",
+    "static/media/img1.jpg": "/mohanprasathportfolio/static/media/img1.5ec8d486c59e71c5ed0e.jpg",
+    "static/media/portfolio.png": "/mohanprasathportfolio/static/media/portfolio.c1e99121726299332447.png",
+    "static/media/react portfolio.png": "/mohanprasathportfolio/static/media/react portfolio.c1e99121726299332447.png",
+    "static/media/img4.jpg": "/mohanprasathportfolio/static/media/img4.4d7ea9ed31d2b15e6cad.jpg",
+    "static/media/weather.png": "/mohanprasathportfolio/static/media/weather.1ecac6423d7d3a100f06.png",
+    "static/media/mern.png": "/mohanprasathportfolio/static/media/mern.44b0884fe18a0767fd6b.png",
+    "static/media/project1.jpeg": "/mohanprasathportfolio/static/media/project1.50c4cf061fff8c5addfd.jpeg",
+    "static/media/tic-tac-toe.png": "/mohanprasathportfolio/static/media/tic-tac-toe.f375e026b8c6c6b195e2.png",
+    "static/media/react.png": "/mohanprasathportfolio/static/media/react.d993f9914784b2a78789.png",
+    "static/media/rps1.png": "/mohanprasathportfolio/static/media/rps1.ff5a79d6fdf8e9bde1f9.png",
+    "static/media/chatapp.png": "/mohanprasathportfolio/static/media/chatapp.14e4ef317e47672104eb.png",
+    "index.html": "/mohanprasathportfolio/index.html",
+    "main.5e23aad6.css.map": "/mohanprasathportfolio/static/css/main.5e23aad6.css.map",
+    "main.5e4799ba.js.map": "/mohanprasathportfolio/static/js/main.5e4799ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e23aad6.css",
+    "static/js/main.5e4799ba.js"
+  ]
+}
